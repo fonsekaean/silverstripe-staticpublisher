@@ -1,5 +1,5 @@
 {
-	"name": "silverstripe/staticpublisher",
+	"name": "fonsekaean/staticpublisher",
 	"description":  "StaticPublisher provides an extensions for exporting a SilverStripe application to either a local or remote file systems.",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe-labs", "static", "export", "publisher"],
